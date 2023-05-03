@@ -1,0 +1,4 @@
+в файле main.py в 70-71 строчках нужно в строке 
+os.system(r'C:\Users\Я\AppData\Local\Programs\Python\Python311\python.exe'
+                      rf' C:\Users\Я\PycharmProjects\pythonProject3112\console_snake.py "{current_user.id}"')
+        заменить адреса питона и файла console_snake.py
